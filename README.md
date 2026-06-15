@@ -1,4 +1,4 @@
-# 🕹️ Meu_Primeiro_Tetris_TUI.py
+# pytris.py
 
 Este é um clone clássico de Tetris feito puramente em **Python**, rodando direto no terminal (TUI - Text User Interface). O código foi escrito pensando em manter as coisas simple
 
